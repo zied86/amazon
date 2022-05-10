@@ -1,0 +1,31 @@
+
+`	java:S112/"FDefine and throw a dedicated exception instead of using a generic one.(¬ùã’ÿÿÿÿÿ
+`	java:S112E"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+S
+java:S3416"1Update this logger to use "HelpersMethods.class".(Û…Ãèúÿÿÿÿ8…Èûê0
+W
+java:S1874"5Remove this use of "WebDriverWait"; it is deprecated.(û‘Ê«ÿÿÿÿÿ8‹Èûê0
+
+java:S1130!"wRemove the declaration of thrown exception 'java.lang.InterruptedException', as it cannot be thrown from method's body.(ó¬¨ÿ
+B
+java:S1172!",Remove this unused method parameter "color".(ó¬¨ÿ
+S	java:S106*"9Replace this use of System.out or System.err by a logger.(èÿ´ûÿÿÿÿ
+
+java:S1130/"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(¬ùã’ÿÿÿÿÿ8ŸÈûê0
+C	java:S1087")Either remove or fill this block of code.(¬Àáªøÿÿÿÿ
+O
+java:S4719?"9Replace charset name argument with StandardCharsets.UTF_8(û˜Ÿ
+h	java:S100J"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‰¢Äªşÿÿÿÿ
+Z
+java:S2147Z"DCombine this catch with the one at line 87, which has the same body.(ï­£Ä
+f
+java:S2147]"DCombine this catch with the one at line 87, which has the same body.(âÃƒŠıÿÿÿÿ8§Èûê0
+A
+java:S1168Y"$Return an empty map instead of null.(¥¹ï8©Èûê0
+A
+java:S1168\"$Return an empty map instead of null.(¥¹ï8ªÈûê0
+A
+java:S1168_"$Return an empty map instead of null.(¥¹ï8«Èûê0
+}
+java:S1488R"bImmediately return this expression instead of assigning it to the temporary variable "jsonObject".(´®²Àùÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÔšÈ¸úÿÿÿÿ

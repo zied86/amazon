@@ -1,0 +1,16 @@
+
+P
+java:S1118":Add a private constructor to hide the implicit public one.(¸’
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Šğš
+S	java:S106%"9Replace this use of System.out or System.err by a logger.(Èš¥·úÿÿÿÿ
+S	java:S106/"9Replace this use of System.out or System.err by a logger.(€ˆŠ§ùÿÿÿÿ
+S	java:S1060"9Replace this use of System.out or System.err by a logger.(ïù¯¯ûÿÿÿÿ
+y
+java:S1104"^Make etatHubRestitution a static final constant or non-public and provide accessors if needed.(úíğ‰úÿÿÿÿ
+S
+java:S1444"8Make this "public static etatHubRestitution" field final(úíğ‰úÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÔšÈ¸úÿÿÿÿ
+^
+java:S2095"HUse try-with-resources or close this "Connection" in a "finally" clause.(‚›âı
+]
+java:S2095"GUse try-with-resources or close this "Statement" in a "finally" clause.(˜ğ×

@@ -1,0 +1,5 @@
+
+^	java:S119"IRename this generic name to match the regular expression '^[A-Z][0-9]?$'.(’¦•ƒ
+m
+java:S1104"RMake driver a static final constant or non-public and provide accessors if needed.(ÔèË©úÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÔšÈ¸úÿÿÿÿ
